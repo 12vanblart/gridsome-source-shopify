@@ -36,6 +36,8 @@ module.exports = {
 }
 ```
 
+For details on getting your Storefront API Token, check [Shopify's API Docs](https://help.shopify.com/en/api/storefront-api)
+
 ## Routes & Templates
 
 Now you can create a template called `ShopifyProduct.vue`, and specify the route for it - Gridsome will automatically generate pages for all products.
